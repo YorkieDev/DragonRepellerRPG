@@ -57,8 +57,3 @@ The game is structured around various game states or locations. Each location ha
 - `lose()`: Handle the game over scenario when the player loses.
 - `winGame()`: Handle the game over scenario when the player wins.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
----
