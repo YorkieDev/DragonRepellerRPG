@@ -11,7 +11,6 @@ Welcome to Dragon Repeller! This is a simple Role Playing Game (RPG) where your 
 3. [Technologies Used](#technologies-used)
 4. [How to Play](#how-to-play)
 5. [Game Logic](#game-logic)
-6. [License](#license)
 
 ## Introduction
 
