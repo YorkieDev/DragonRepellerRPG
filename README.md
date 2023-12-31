@@ -18,6 +18,10 @@ Dragon Repeller is an RPG game developed as part of the "Learn Basic JavaScript 
 
 ## Game Overview
 
+
+![DemoRPGDRAGON](https://github.com/YorkieDev/DragonRepellerRPG/assets/42919623/9de7802a-e0fb-4135-bf2d-87926039f1a7)
+
+
 - **Objective**: Defeat the dragon that is terrorizing the town.
 - **Game Elements**: 
   - Player stats (XP, Health, Gold)
