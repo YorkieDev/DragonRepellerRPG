@@ -14,7 +14,7 @@ Welcome to Dragon Repeller! This is a simple Role Playing Game (RPG) where your 
 
 ## Introduction
 
-Dragon Repeller is an RPG game developed as part of the "Learn Basic JavaScript by Building a Role Playing Game" course from [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/). The game is built using HTML, CSS, and JavaScript and is designed to be a fun and interactive experience.
+Dragon Repeller is an RPG game developed as part of the "Learn Basic JavaScript by Building a Role Playing Game" course from [freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/). The game is built using HTML, CSS, and JavaScript and is designed to be a fun and interactive experience. This is a Guided Project where I had to solve various tasks throughout the course provided by freeCodecamp. 
 
 ## Game Overview
 
